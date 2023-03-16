@@ -2,10 +2,10 @@
 git add -A .
 git commit -m "Updating info about me"
 heroku login
-git pull heroku master
-git push heroku master:master
-git pull origin master
-git push origin master:master
+git pull heroku main
+git push heroku main:main
+git pull origin main
+git push origin main:main
 
 #Netlify
 npm run dev
