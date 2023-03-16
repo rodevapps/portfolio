@@ -17,14 +17,6 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">VirtualBox</span>
-            <span className="text-sm font-medium">40%</span>
-          </div>
-          <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
-            <div className="bg-red-600 h-3" style={{ width: '40%' }}></div>
-          </div>
-
-          <div className="flex justify-between mb-1 mt-10">
             <span className="text-base font-medium">HTML5</span>
             <span className="text-sm font-medium">40%</span>
           </div>
@@ -41,7 +33,7 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">Docker</span>
+            <span className="text-base font-medium">Docker, VirtualBox itp.</span>
             <span className="text-sm font-medium">30%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
@@ -65,7 +57,7 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">PHP</span>
+            <span className="text-base font-medium">JavaScript</span>
             <span className="text-sm font-medium">30%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
@@ -73,7 +65,7 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">JavaScript</span>
+            <span className="text-base font-medium">Git</span>
             <span className="text-sm font-medium">30%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
@@ -89,27 +81,11 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">React</span>
+            <span className="text-base font-medium">React.js</span>
             <span className="text-sm font-medium">20%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
             <div className="bg-red-600 h-3" style={{ width: '20%' }}></div>
-          </div>
-
-          <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">Ruby</span>
-            <span className="text-sm font-medium">10%</span>
-          </div>
-          <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
-            <div className="bg-red-600 h-3" style={{ width: '10%' }}></div>
-          </div>
-
-          <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">C/C++</span>
-            <span className="text-sm font-medium">10%</span>
-          </div>
-          <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
-            <div className="bg-red-600 h-3" style={{ width: '10%' }}></div>
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
@@ -121,7 +97,7 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">Vue</span>
+            <span className="text-base font-medium">Vue.js</span>
             <span className="text-sm font-medium">10%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
@@ -129,7 +105,7 @@ export default function Skills() {
           </div>
 
           <div className="flex justify-between mb-1 mt-10">
-            <span className="text-base font-medium">Angular</span>
+            <span className="text-base font-medium">Angular.js</span>
             <span className="text-sm font-medium">10%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
@@ -138,12 +114,13 @@ export default function Skills() {
 
           <div className="flex justify-between mb-1 mt-10">
             <span className="text-base font-medium">TypeScript</span>
-            <span className="text-sm font-medium">5%</span>
+            <span className="text-sm font-medium">10%</span>
           </div>
           <div className="w-full bg-gray-200 h-3 dark:bg-gray-700">
             <div className="bg-red-600 h-3" style={{ width: '5%' }}></div>
           </div>
 
+          <p className="mt-10 text-justify">These are a selected technologies which I have used recently, mostly in a basic level. I have also used the basics of Awk, Ruby, C/C++, PHP, Groovy, Java, C#, MongoDB in the past. I also have theoretical knowledge of the basics of many other technologies such as Ansible, Jenkins, Terraform, Kubernetes, Helm. In the future I would like to become more familiar with Go, Scala and Rust etc.</p>
           <p className="mt-10 text-justify">I'm a person who is independent during solving IT problems. I'm ready to improve my qualifications and further learning.</p>
         </div>
         <div className="w-1/2 mt-10 sm:hidden flex mx-auto">
