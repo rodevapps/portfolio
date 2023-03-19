@@ -59,7 +59,7 @@ export default function Portfolio() {
           <p><a className="bg-blue-400 p-2 text-white hover:bg-blue-600" href="https://github.com/rodevapps/planner0-graphql">See code</a></p>
         </div>
         <div className="border border-gray-200 bg-white py-6 px-1 sm:px-6 shadow-sm flex flex-col justify-between dark:bg-zinc-800">
-          <h2 className="mb-2 text-2xl font-medium">Routing example in many JS frameworks</h2>
+          <h2 className="mb-2 text-xl sm:text-2xl font-medium">Routing example in many JS frameworks</h2>
           <p className="mb-4"><em>JavaScript, HTML, CSS3</em></p>
           <p><a className="bg-blue-400 p-2 text-white hover:bg-blue-600" href="https://github.com/rodevapps/navigation">See code</a></p>
         </div>
