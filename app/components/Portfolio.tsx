@@ -35,7 +35,7 @@ export default function Portfolio() {
         </div>
         <div className="border border-gray-200 bg-white py-6 px-1 sm:px-6 shadow-sm flex flex-col justify-between dark:bg-zinc-800">
           <h2 className="mb-2 text-2xl font-medium">Design Patterns</h2>
-          <p className="mb-4"><em>Java</em></p>
+          <p className="mb-4"><em>Java, Python</em></p>
           <p><a className="bg-blue-400 p-2 text-white hover:bg-blue-600" href="https://github.com/rodevapps/proj3">See code</a></p>
         </div>
         <div className="border border-gray-200 bg-white py-6 px-1 sm:px-6 shadow-sm flex flex-col justify-between dark:bg-zinc-800">

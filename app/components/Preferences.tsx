@@ -11,7 +11,7 @@ export default function Alert() {
             <li>I'm interested in <strong>remote work</strong> with possible meetings at the employer's office (with distance dependent frequency).</li>
             <li>I don't have a company. I prefer a <strong>full-time contract</strong>.</li>
             <li>Remuneration for work to be agreed. I would like to earn no less than <strong>5500 PLN net / month (~ 7500 PLN gross / month)</strong> in case of pernament employment contract.</li>
-            <li>The time to start a new job is at least <strong>2 weeks</strong>.</li>
+            <li>I am ready to start work <strong>immediately</strong>.</li>
           </ul>
         </div>
         <div className="hidden sm:block m-auto min-w-[150px]">
