@@ -9,8 +9,9 @@ export default function Alert() {
           <h1 className="text-xl font-medium">What kind of job am I looking for?</h1>
           <ul className="mt-10 text-justify sm:list-disc sm:pl-4">
             <li>I'm interested in <strong>remote work</strong> with possible meetings at the employer's office (with distance dependent frequency).</li>
-            <li>I don't have a company. I prefer a <strong>full-time contract</strong>.</li>
-            <li>Remuneration for work to be agreed. I would like to earn no less than <strong>5500 PLN net / month (~ 7500 PLN gross / month)</strong> in case of pernament employment contract.</li>
+            <li>I prefer a <strong>full-time contract</strong>.</li>
+            <li>I don't have a company.</li>
+            <li>Remuneration for work to be agreed.</li>
             <li>I am ready to start work <strong>immediately</strong>.</li>
           </ul>
         </div>

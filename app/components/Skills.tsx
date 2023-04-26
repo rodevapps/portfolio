@@ -128,7 +128,7 @@ export default function Skills() {
         </div>
         <div className="languages w-full mt-10 sm:mt-0 sm:flex-1 sm:pl-2 mx-auto max-w-xl">
           <h1 className="text-center text-xl font-medium">Languages</h1>
-          <p className="mt-10 text-justify"><strong>English</strong> - at a level that allows me to read and understand the technical documentation and write e-mails and hold simple conversations.</p>
+          <p className="mt-10 text-justify"><strong>English</strong> - at a level that allows me to read and understand the technical documentation, write e-mails or messages and hold simple conversations.</p>
 
           <div className="flex justify-between mb-1 mt-10">
             <span className="text-base font-medium">A2 - speaking</span>

@@ -28,6 +28,14 @@ export default function Contact() {
 
           <h3 className="mt-5 text-center"><strong>Email</strong></h3>
           <p className="text-center"><a className="text-xs xs:text-base" href="mailto:work.opiela@gmail.com">work.opiela@gmail.com</a></p>
+
+          <h3 className="mt-5 text-center"><strong>Github</strong></h3>
+          <p className="text-center"><a className="hidden xs:block xs:text-base" href="https://github.com/rodevapps">https://github.com/rodevapps</a></p>
+          <p className="text-center"><a className="block text-xs xs:hidden" href="https://github.com/rodevapps">&#128279;</a></p>
+
+          <h3 className="mt-5 text-center"><strong>Linkedin</strong></h3>
+          <p className="text-center"><a className="hidden sm:block sm:text-base" href="https://www.linkedin.com/in/rafalopiela/">https://www.linkedin.com/in/rafalopiela/</a></p>
+          <p className="text-center"><a className="block text-xs sm:hidden" href="https://www.linkedin.com/in/rafalopiela/">&#128279;</a></p>
         </div>
       </div>
     </section>
