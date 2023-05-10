@@ -14,6 +14,13 @@ export default function Education() {
             <p>Warsaw School of Information Technology, Warsaw</p>
             <p><small><em>2009 - 2015</em></small></p>
             <p className="text-justify">Bachelor Degree Engineering Studies</p>
+
+            <h1 className="text-center text-xl font-medium mt-10">Personality</h1>
+
+            <p className="mt-10"><strong>Type:</strong> <a href="https://www.16personalities.com/infj-personality">Turbulent Advocate</a></p>
+            <p><strong>Role:</strong> <a href="https://www.16personalities.com/articles/roles-diplomats">Diplomat</a></p>
+            <p><strong>Strategy:</strong> <a href="https://www.16personalities.com/articles/strategies-constant-improvement">Constant Improvement</a></p>
+            <p className="mt-5"><a className="bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 cursor-pointer" href="/assets/my-personality.pdf">Results</a></p>
           </div>
         </div>
         <div className="w-full sm:flex-1 m-auto">
