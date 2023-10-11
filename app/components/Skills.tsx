@@ -112,7 +112,7 @@ export default function Skills() {
             <div className="bg-red-600 h-3" style={{ width: '20%' }}></div>
           </div>
 
-          <p className="mt-10 text-justify">These are a selected technologies which I have used recently. I have also experience with Awk, Ruby, Groovy, Java, C/C++, C#, PostgreSQL, MongoDB etc. I also have theoretical knowledge of the basics of many other technologies such as Ansible, Jenkins, Terraform, Kubernetes, Helm. In the future I would like to become more familiar with Go, Scala and Rust etc.</p>
+          <p className="mt-10 text-justify">These are a selected technologies which I have used recently. In the past, I have also had basic or elementary experience with Awk, Ruby, Groovy, Java, C/C++, C#, PostgreSQL, MongoDB etc. I also have theoretical knowledge of the basics of many other technologies such as Ansible, Jenkins, Terraform, Kubernetes, Helm. In the future I would like to become more familiar with Go, Scala and Rust etc.</p>
           <p className="mt-10 text-justify">I'm a person who is independent during solving IT problems. I'm ready to improve my qualifications and further learning.</p>
         </div>
         <div className="w-1/2 mt-10 sm:hidden flex mx-auto">

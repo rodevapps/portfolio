@@ -8,5 +8,9 @@ git pull origin main
 git push origin main:main
 
 #Netlify
+git add -A .
+git commit -m "Updating info about me"
+git pull
+git push
 npm run dev
 netlify deploy --build --prod
