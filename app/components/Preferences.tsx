@@ -1,5 +1,14 @@
 import React from "react";
 
+            /*
+            <li>I'm interested in <strong>remote work</strong> with possible meetings at the employer's office (with distance dependent frequency).</li>
+            <li>I prefer a <strong>full-time contract</strong>.</li>
+            <li>I don't have a company.</li>
+            <li>Remuneration for work to be agreed.</li>
+            <li>I am ready to start work <strong>immediately</strong>.</li>
+            */
+
+
 export default function Alert() {
   return (
     <section className="preferences bg-gray-100 px-1 xs:px-3 sm:px-5 py-20 dark:bg-zinc-900 dark:text-white">
@@ -8,13 +17,6 @@ export default function Alert() {
         <div className="sm:flex-1 sm:pr-2">
           <h1 className="text-xl font-medium">What kind of job am I looking for?</h1>
           <ul className="mt-10 text-justify sm:list-disc sm:pl-4">
-            <!--
-            <li>I'm interested in <strong>remote work</strong> with possible meetings at the employer's office (with distance dependent frequency).</li>
-            <li>I prefer a <strong>full-time contract</strong>.</li>
-            <li>I don't have a company.</li>
-            <li>Remuneration for work to be agreed.</li>
-            <li>I am ready to start work <strong>immediately</strong>.</li>
-            ->
             <li>I am currently working full time. I am looking for a temporary work in which I can develop my skills. I am interested in working at most a few h/week.</li>
             <li>I'm interested in <strong>remote work</strong> only.</li>
             <li>I don't have a company.</li>
