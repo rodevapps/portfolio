@@ -21,6 +21,12 @@ export default function Education() {
             <p><strong>Role:</strong> <a href="https://www.16personalities.com/articles/roles-diplomats">Diplomat</a></p>
             <p><strong>Strategy:</strong> <a href="https://www.16personalities.com/articles/strategies-constant-improvement">Constant Improvement</a></p>
             <p className="mt-5"><a className="bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 cursor-pointer" href="/assets/my-personality.pdf">Results</a></p>
+
+            <h1 className="text-center text-xl font-medium mt-10">Additional informations</h1>
+
+            <p className="mt-10"><strong>Age:</strong> 45</p>
+            <p><strong>Nationality:</strong> Polish / EU</p>
+            <p><strong>Driving licence:</strong> no</p>
           </div>
         </div>
         <div className="w-full sm:flex-1 m-auto">

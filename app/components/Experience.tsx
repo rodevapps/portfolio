@@ -13,6 +13,8 @@ export default function Experience() {
           <div>
             <h1 className="text-center text-xl font-medium">Experience</h1>
 
+            <p className="mt-10 text-justify"><strong>I've been working in DevOps / SysOps positions (Linux, Ubuntu) for the past few years. The work mainly consisted of maintaining the operation of the existing IT infrastructure and responding to problems as they occurred.</strong></p>
+
             <h3 className="mt-10 font-medium uppercase">Junior DevOps</h3>
             <p>The Polish Chamber of Physiotherapists, Warsaw</p>
             <p><em>06.2023 -</em></p>

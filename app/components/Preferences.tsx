@@ -1,15 +1,4 @@
-import React from "react";
-
-            /*
-            <li>I'm interested in <strong>remote work</strong> with possible meetings at the employer's office (with distance dependent frequency).</li>
-            <li>I prefer a <strong>full-time contract</strong>.</li>
-            <li>I don't have a company.</li>
-            <li>Remuneration for work to be agreed.</li>
-            <li>I am ready to start work <strong>immediately</strong>.</li>
-            */
-
-
-export default function Alert() {
+export default function Preferences() {
   return (
     <section className="preferences bg-gray-100 px-1 xs:px-3 sm:px-5 py-20 dark:bg-zinc-900 dark:text-white">
       <h1 className="text-center text-xl font-medium">Preferences</h1>
@@ -18,7 +7,13 @@ export default function Alert() {
           <h1 className="text-xl font-medium">What kind of job am I looking for?</h1>
           <ul className="mt-10 text-justify sm:list-disc sm:pl-4">
             <li>I am currently working full time. I am looking for a temporary work in which I can develop my skills. I am interested in working at most a few h/week.</li>
-            <li>I'm interested in <strong>remote work</strong> only.</li>
+            <li>I am looking for <strong>remote work</strong> (with possible occasional meetings at the employer's office).</li>
+            <li>I prefer to work from 8 am to 4 pm Mon-Fri without frequent business travel.</li>
+            <li>I rate my skills at <strong>junior/mid, regular</strong> level depending on the issue.</li>
+            <li>I do not see myself in team management positions.</li>
+            <li>So far, I have been working mostly on my own, performing assigned tasks (sent via email or ticket systems).</li>
+            <li>When working in a group, I play the role of a person following orders. I have basic communication skills.</li>
+            <li>I am bad at working under stress, time pressure, and on multiple tasks simultaneously. At previous employers, I usually had plenty of time to quietly perform my duties.</li>
             <li>I don't have a company.</li>
             <li>I am ready to start work <strong>immediately</strong>.</li>
           </ul>
