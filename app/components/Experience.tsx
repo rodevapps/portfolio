@@ -18,7 +18,7 @@ export default function Experience() {
             <h3 className="mt-10 font-medium uppercase">Junior DevOps</h3>
             <p>The Polish Chamber of Physiotherapists, Warsaw</p>
             <p><em>06.2023 -</em></p>
-            <p className="text-justify">Working as a Junior DevOps or Linux Administrator.<br /><strong>Main tasks</strong>: Linux systems administration (Ubuntu), DevOps tasks (Azure DevOps), support in application deployment processes (.Net/Node.js) to development and production servers.<br /><strong>Used tools or programming languages</strong>: Linux, Bash, Docker, Azure DevOps, Ansible, PostgreSQL, HAProxy.</p>
+            <p className="text-justify">Working as a Junior DevOps or Linux Administrator.<br /><strong>Main tasks</strong>: Create documentation of existing systems and infrastructure. Linux systems administration (Ubuntu), DevOps tasks (Azure DevOps), support in application deployment processes (.Net/Node.js) to development and production servers.<br /><strong>Used tools or programming languages</strong>: Linux, Bash, Docker, Azure DevOps, Ansible, PostgreSQL, HAProxy.</p>
 
             <h3 className="mt-10 font-medium uppercase">Junior IT Environments Specialist</h3>
             <p>Solwit S.A., Gdansk</p>
